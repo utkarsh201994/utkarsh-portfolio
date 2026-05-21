@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Utkarsh Kumar — Portfolio Website
 
 A premium dark-themed personal portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**. Features glassmorphism UI, smooth animations, and a fully responsive design.
@@ -169,3 +170,6 @@ Then update `globals.css` CSS variables to match:
 Built by **Utkarsh Kumar**
 - Email: utkarsh201994@gmail.com
 - LinkedIn: [utkarshkumar](https://www.linkedin.com/in/utkarshkumar-94783212b)
+=======
+# utkarsh-portfolio
+>>>>>>> 6b7c38c6a3106c51a5353449fb4d2c0caea71477
